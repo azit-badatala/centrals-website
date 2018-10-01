@@ -21,4 +21,5 @@ nav a.active {
   text-align:center;
   background-color: green;
   border: 1px solid;
+  background-image: url("../assets/cricket_background.jpg");
 }
